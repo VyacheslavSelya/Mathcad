@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?validation-md5-digest 8a48db0a3bcfe18a1e855e10978f0156?>
+<?validation-md5-digest 3f1468f57f414b870bbe3c597ad3f85d?>
 <worksheet version="3.0.3" xmlns="http://schemas.mathsoft.com/worksheet30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ws="http://schemas.mathsoft.com/worksheet30" xmlns:ml="http://schemas.mathsoft.com/math30" xmlns:u="http://schemas.mathsoft.com/units10" xmlns:p="http://schemas.mathsoft.com/provenance10" xmlns:prd="http://schemas.mathsoft.com/point-release-data">
 	<pointReleaseData/>
 	<metadata>
@@ -13,9 +13,9 @@
 			<revisedBy>Вячеслав</revisedBy>
 		</userData>
 		<identityInfo>
-			<revision>37</revision>
+			<revision>38</revision>
 			<documentID>ACB97EC6-208C-4117-85E9-02058718C23A</documentID>
-			<versionID>7B9DD7E3-F3DA-4C89-8A66-91C01B8792D0</versionID>
+			<versionID>FCF7DDD7-4E90-4F08-A7F8-3CBC1081680A</versionID>
 			<parentVersionID>00000000-0000-0000-0000-000000000000</parentVersionID>
 			<branchID>00000000-0000-0000-0000-000000000000</branchID>
 		</identityInfo>
@@ -110,7 +110,7 @@
 		</editor>
 		<fileFormat image-type="image/png" image-quality="75" save-numeric-results="true" exclude-large-results="false" save-text-images="false" screen-dpi="96"/>
 		<miscellaneous>
-			<handbook handbook-region-tag-ub="187" can-delete-original-handbook-regions="true" can-delete-user-regions="true" can-print="true" can-copy="true" can-save="true" file-permission-mask="4294967295"/>
+			<handbook handbook-region-tag-ub="189" can-delete-original-handbook-regions="true" can-delete-user-regions="true" can-print="true" can-copy="true" can-save="true" file-permission-mask="4294967295"/>
 		</miscellaneous>
 	</settings>
 	<regions>
@@ -123,6 +123,11 @@
 						</b>
 					</f>
 				</p>
+			</text>
+		</region>
+		<region region-id="189" left="438" top="8.25" width="67.5" height="12" align-x="450" align-y="18" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<text use-page-width="false" push-down="false" lock-width="true">
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">После git clone</p>
 			</text>
 		</region>
 		<region region-id="168" left="12" top="39" width="95.25" height="18.75" align-x="51" align-y="54" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
@@ -2811,22 +2816,22 @@ QfVUKEQMGRYZ723viSC940K1dTBlCsT/ibwcPF+1Rmelue6x/1yByPA37q95Ctcwb4B+D+I1
 ZxBo74ijFD1CbJNae0PlYS9Dul/Xw9j8fl3Xxqdxs/Z2ebwfpxH1mPAE9Ml5tMk4cAlywUHR
 50yoPRv4hM9mZotw9/4MX/nBiyIFG2K8HDgV/MQCQNFjkQJSG0+i9NwBd+/P8KUfmvDtyzLE
 eAuwOVzk+udK0Kme7e8DL636EwcwxDjwEOz7P4+L76srHZwcAAAAAElFTkSuQmCC</item>
-		<item item-id="8" content-encoding="gzip">H4sIAAAAAAAA/+xXTUxTQRCe9/pDgda2/FQFixUr/qAYXvQgoqkWEk3EJsVwNdC+0GcKD9pn
-IrfGixwwMdF48KQXPXjyohzVGBOjCehBE73oxYvxIvFiInVmZ3m8EqL4F2Ngmtmf2flmdqf7
-dmf9AKAg9yPXiLaKpdsq6HozEGnIvpFMauiMnrGEBNLI3QhKuDTvF4CSW7v9EHseLYJVyatN
-PcCqSgskhLZP9qs1NQiQ9QF43AXQoQg5dMkYXy2bqPFrgEqJWsQF2HjtOk34CgCO0NyqkwP9
-vePHLX1EEfb9yF6nADUhJFR9+nhaHzbMUY8Y2EforJlhmVvIDthr9hZzY0fNc7zEE8hVKEjb
-i+5DPoZ6L7GOugAOYTuHPMlO4a4MpApqWDTqbE9HLKtgDJ21dFbtAlqKk+q6Wiv69Quxa+DY
-1Tdy7BoqYhfRrj7CwYb1HLMI6m8QzVKkwtpGsTw/hi1pjgyZFCgeCNEiUbwooWl14zYoIuIV
-tq8h06zLZdJG1VReT+YNfdQSGBxxy2XLErGzM+G3N+40vYMldBhcMF+uBq9Dpthono4q+/Nl
-8shUXqP/ir4izzt4jVYXpcHEnwUx6IVRrAswsfQo+C5FwGN/83QWnIf9Smv4TfhyCQIDjz1N
-Tt1QvPP1lbEXCp7HcF8eJEn0Tn51URZ/yjdRHaiKcz0rxU0qP9ZZKf2K/z9Jv+OfL0EA+k/o
-dqC7l878tbNgdZAHE7APmEi8j/N+qKnYGXabtkgI+SByI8vispkFQ+yeoES7JMZw4Cnrm0ae
-K1fu0Evs5BkVfZjVxpBzeBbk8ReDHiyHsdaEkvrpQgSQ85wKAtVPb92zcsEOmJ77CJ//ou1u
-Ep6aetKZmQ3fvAjX4zOe5wvZkG9JrJaLHwdQld8WJoaAl20F/ysSs2ziRJRScVXhdLhfLxiD
-+dM9RnEsPzhx0szqrJ8SoGYGyM2yabm3QlS+FVr4rRDdzHlvC+rH+K3QsoXfCjHaO61sMSam
-kEiBspUFUeEhLo1sYyO09drYSHw7G2kjIzsY02Yb2ekwsmsR2y6xuxnbTtg9rNpuYzscg3sd
-g9T/BgAA//8DAJBEVNiIDQAA</item>
+		<item item-id="8" content-encoding="gzip">H4sIAAAAAAAA/+xXTUxTQRCe99pXCrRCC1QFixUr/qAYX/QgoqkWEk3EJsVwNdC+0GcKhfaZ
+yK3xIgdMTEw8eNKLHrzoRTmqMSZGE5CDmpgYvXAxXiReTKTO7CyPV0IU/2IMTDP7MzvfzO50
+3+6sDwAU5F7kKtFWsXRbecNoAiId2TuUSgycNVKWkEASuRNBMZfu+QJQdOu3H2FP00NYFT36
+xEOsKnR/TGh7Zb9SV2sA0l4AzZ0HAwqQQZeM8VaziSqfDqgUq0acn41Xr9OFLz/gCM2tMt7X
+2z16wjKGFGHfh+xxClATaoWq1xhNGoNmblgTA/sJnc6lWOYWsoP2mj2FzMix3Hle4knkChQk
+7UX3IB9HvZdYh10Ah7GdQR5np3BPBlIFNSAaQdvTUcvKmwPnLINVO4CW4qRgR0tZv24hdvUc
+u7oGjl19WexC+tXHOFi/nmMWQv0NolkMlVnbKJbnw7DFc0MDOQoUD9TSIlG8KKFpdeI2KCDi
+FbavIdOsSyXSRtVE1ohnTWPYEhgccctlyxKx01OBdzfuNr6HJXQEXDBfqgSPQ6bYaJ6OKvvz
+JfLIVFqj/4q+Is87eI1WFyUhhz8LItANw1jnYWzpUfBdCoFmf/N0FlyAA0pL4E3gShH8fU+0
+RqfunbfB17MjMwqex/BAHiRx9E5+DVEWfso3URBUxbmeleLGlR/rrJR+xf+fpN/xz5cgAP0n
+dDvQ3Utn/tpZsDpIwwTsAyYSs1HeD1VlO8Nu0xapRT6E3MCyqGymwRS7p0aiXRJjOvCU9U0i
+z5XKd+hldvKcih7MaiPIGTwLsviLQBeWg1jrQkn9dDEEyFlOBYHqZ7fuW5madpic+wif/6Lt
+ThKenni6LzUduHkJrkentBcL2ZB3SayWix8HUJXfFiaGgJdtGf8rErNs5ESUUnFV4XS418ib
+/dkzXWZhJNs/diqXNlg/IUBNDJCbZdNyb4WwfCs081shvJnz3mbUj/BboXkLvxUitHda2GJE
+TCGWAGUrC8LCQ1Qa2cZGaOu1spHodjbSSkZ2MKbVNrLTYWTXIrZNYnczto2we1i1zca2Owb3
+Ogap/w0AAP//AwA4MBuMiA0AAA==</item>
 		<item item-id="9">iVBORw0KGgoAAAANSUhEUgAAANUAAAFnCAYAAAAxNQxJAAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAB5dSURBVHhe7Z3ddeSqEoUdlR8mGj85
 Fb9OHvPuMJzASeJm0LcL9INK/BStwiVg77X2OqclGqmk+kCtAfz2gCBIVV1B9fb2BsPNfVXd
