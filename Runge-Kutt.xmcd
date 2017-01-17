@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?validation-md5-digest c053797797332579a44ef9ea52c0c30d?>
+<?validation-md5-digest 8a48db0a3bcfe18a1e855e10978f0156?>
 <worksheet version="3.0.3" xmlns="http://schemas.mathsoft.com/worksheet30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ws="http://schemas.mathsoft.com/worksheet30" xmlns:ml="http://schemas.mathsoft.com/math30" xmlns:u="http://schemas.mathsoft.com/units10" xmlns:p="http://schemas.mathsoft.com/provenance10" xmlns:prd="http://schemas.mathsoft.com/point-release-data">
 	<pointReleaseData/>
 	<metadata>
@@ -13,9 +13,9 @@
 			<revisedBy>Вячеслав</revisedBy>
 		</userData>
 		<identityInfo>
-			<revision>36</revision>
+			<revision>37</revision>
 			<documentID>ACB97EC6-208C-4117-85E9-02058718C23A</documentID>
-			<versionID>CEEC7C5F-9D14-48C6-9D31-210D583AF4DD</versionID>
+			<versionID>7B9DD7E3-F3DA-4C89-8A66-91C01B8792D0</versionID>
 			<parentVersionID>00000000-0000-0000-0000-000000000000</parentVersionID>
 			<branchID>00000000-0000-0000-0000-000000000000</branchID>
 		</identityInfo>
@@ -2811,22 +2811,22 @@ QfVUKEQMGRYZ723viSC940K1dTBlCsT/ibwcPF+1Rmelue6x/1yByPA37q95Ctcwb4B+D+I1
 ZxBo74ijFD1CbJNae0PlYS9Dul/Xw9j8fl3Xxqdxs/Z2ebwfpxH1mPAE9Ml5tMk4cAlywUHR
 50yoPRv4hM9mZotw9/4MX/nBiyIFG2K8HDgV/MQCQNFjkQJSG0+i9NwBd+/P8KUfmvDtyzLE
 eAuwOVzk+udK0Kme7e8DL636EwcwxDjwEOz7P4+L76srHZwcAAAAAElFTkSuQmCC</item>
-		<item item-id="8" content-encoding="gzip">H4sIAAAAAAAA/+xXTUxTQRCe99pXCrRC+akKtlas+INifNFEEU21kGgiNimGq4H2hdaUPmif
-idwaL3LAhMTEgyf1oAdPXpSjGmNiNAE96MGLXrwYLxIvJlJndpbHKyGKfzEGppn9mZ1vZne6
-b3fWBwAKcj9yjWirWLqtgmG0ApGO7B1JJYbOGSlLSCCJ3I2gmEv3fAEoufU7j7Cn6UGsSh59
-8iFWVbo/JrS9sl+tq3UAaS+A5i6AAUXIoEvGeGvZRI1PB1SK1SLOz8Zr1+nClx9whOZWHR/o
-7x07aRkjirDvQ/Y4BagJ9ULVa4wljeGsmdfEwH5Cp80Uy9xCdshes6eYGT1uXuAlnkKuQkHS
-XnQf8gnUe4V1yAVwBNsZ5Al2CvdkIFVQA6LRYHs6ZlmF7NB5y2DVLqClOKmhq62i37gQuyaO
-XWMzx66pInZB/epjHGxazzELov4G0SwFK6xtFMvzYdji5siQSYHigXpaJIoXJTStbtwGRUS8
-xvY1ZJp1uUzaqJrIGfFc1shbAoMjbrlsWSJ2dibw9sbdlnewhI6CC+bL1eBxyBQbzdNRZX++
-TB6Zymv0X9FX5HkHr9HqoiSY+LMgAr2Qx7oA40uPgu9SEDT7m6ez4CIcUNoCbwJXSuAfeKK1
-OHUfTN0MH8y/VFzUlgdJHL2TX0OUxZ/yTdQAquJcz0pxE8qPdVZKv+L/T9Lv+OdLEID+E7od
-6O6lM3/tLFgdpGEC9gETifdR3g81FTvDbtMWqUc+jNzMsqhspiErdk+dRLskJuvAU9Y3jTxX
-rtyhU+zkORV9mNVGkDN4FuTwF4EeLIex1oWS+ulSEJBznAoC1c9u37cydZ0wPfcRPv9F290k
-PDP5dF9qNnDrMlyPzmgvFrIh75JYLRc/DqAqvy1MDAEv2wr+VyRm2cKJKKXiqsLpcL9RyA7m
-zvZki6O5wfHTZtpg/YQAtTJAbpZNy70VQvKtEOa3Qmgz571h1I/wWyG8hd8KEdo7bWwxIqYQ
-S4CylQUh4SEqjWxjI7T12tlIdDsbaScjOxjTbhvZ6TCyaxHbIbG7GdtB2D2s2mFjOx2Dex2D
-1P8GAAD//wMAR+TAHogNAAA=</item>
+		<item item-id="8" content-encoding="gzip">H4sIAAAAAAAA/+xXTUxTQRCe9/pDgda2/FQFixUr/qAYXvQgoqkWEk3EJsVwNdC+0GcKD9pn
+IrfGixwwMdF48KQXPXjyohzVGBOjCehBE73oxYvxIvFiInVmZ3m8EqL4F2Ngmtmf2flmdqf7
+dmf9AKAg9yPXiLaKpdsq6HozEGnIvpFMauiMnrGEBNLI3QhKuDTvF4CSW7v9EHseLYJVyatN
+PcCqSgskhLZP9qs1NQiQ9QF43AXQoQg5dMkYXy2bqPFrgEqJWsQF2HjtOk34CgCO0NyqkwP9
+vePHLX1EEfb9yF6nADUhJFR9+nhaHzbMUY8Y2EforJlhmVvIDthr9hZzY0fNc7zEE8hVKEjb
+i+5DPoZ6L7GOugAOYTuHPMlO4a4MpApqWDTqbE9HLKtgDJ21dFbtAlqKk+q6Wiv69Quxa+DY
+1Tdy7BoqYhfRrj7CwYb1HLMI6m8QzVKkwtpGsTw/hi1pjgyZFCgeCNEiUbwooWl14zYoIuIV
+tq8h06zLZdJG1VReT+YNfdQSGBxxy2XLErGzM+G3N+40vYMldBhcMF+uBq9Dpthono4q+/Nl
+8shUXqP/ir4izzt4jVYXpcHEnwUx6IVRrAswsfQo+C5FwGN/83QWnIf9Smv4TfhyCQIDjz1N
+Tt1QvPP1lbEXCp7HcF8eJEn0Tn51URZ/yjdRHaiKcz0rxU0qP9ZZKf2K/z9Jv+OfL0EA+k/o
+dqC7l878tbNgdZAHE7APmEi8j/N+qKnYGXabtkgI+SByI8vispkFQ+yeoES7JMZw4Cnrm0ae
+K1fu0Evs5BkVfZjVxpBzeBbk8ReDHiyHsdaEkvrpQgSQ85wKAtVPb92zcsEOmJ77CJ//ou1u
+Ep6aetKZmQ3fvAjX4zOe5wvZkG9JrJaLHwdQld8WJoaAl20F/ysSs2ziRJRScVXhdLhfLxiD
++dM9RnEsPzhx0szqrJ8SoGYGyM2yabm3QlS+FVr4rRDdzHlvC+rH+K3QsoXfCjHaO61sMSam
+kEiBspUFUeEhLo1sYyO09drYSHw7G2kjIzsY02Yb2ekwsmsR2y6xuxnbTtg9rNpuYzscg3sd
+g9T/BgAA//8DAJBEVNiIDQAA</item>
 		<item item-id="9">iVBORw0KGgoAAAANSUhEUgAAANUAAAFnCAYAAAAxNQxJAAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAB5dSURBVHhe7Z3ddeSqEoUdlR8mGj85
 Fb9OHvPuMJzASeJm0LcL9INK/BStwiVg77X2OqclGqmk+kCtAfz2gCBIVV1B9fb2BsPNfVXd
